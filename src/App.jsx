@@ -776,7 +776,7 @@ export default function App() {
             <div className="w-12 h-12 rounded-full overflow-hidden border-2 border-orange-500 group-hover:border-blue-500 transition-colors shadow-[0_0_15px_rgba(249,115,22,0.4)] group-hover:shadow-[0_0_15px_rgba(59,130,246,0.4)] relative">
               <div className="absolute inset-0 bg-slate-800 flex items-center justify-center text-xs text-slate-500">Logo</div>
               <img 
-                src="Untitled design (1).jpg" 
+                src="Untitled design (1).png" 
                 alt="Quack Quack CS2 Logo" 
                 className="w-full h-full object-cover relative z-10"
                 onError={(e) => e.target.style.display = 'none'}
